@@ -1,0 +1,101 @@
+
+.up-half{
+    background-color: #1f2937;
+    margin: -8px;
+}
+.logo{
+    margin-left: 80px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.leftbar{
+    display: flex;
+    margin-left: auto;
+    margin-right: 80px;
+    margin-top: 5px;
+    font-size: 10px;
+    color: white;
+    gap: 17px;
+}
+.name{
+    width: 190px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffffc4;
+}
+
+.topbar{
+    display: flex;
+}
+.disk{
+    border: 10px;
+    border-color: black;
+    color: #8f8f8f; 
+    width: 384px;
+    font-weight: 600;
+    font-size: 25px;
+
+
+}
+.sor{
+    border: 10px;
+    border-color: black;
+    color: #c5bdbd99;
+    width: 385px;
+    font-size: 10px;
+}
+.the-mid{
+    margin: 50px;
+}
+.but{
+    margin-top: 10px;
+    color: white;
+    background-color: #3b82f6;
+    border-bottom-style: none;
+    border: 0px;
+    border-radius: 23px
+}
+.him{
+    width: 273px;
+    padding-left: 290px;
+    padding-top: 29px;
+}
+.top-half{
+    display: flex;
+}
+.midhead{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: system-ui;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.midpic{
+    margin-top: 145px;
+    margin-left: 99px;
+    margin-right: 98px;
+}
+.pics{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.cont{
+    display: flex;
+    display: flex;
+    justify-content: space-evenly;
+}
+.feets{
+    margin-top: 125px;
+    background-color: #e5e7eb;
+    margin-left: -102px;
+    margin-right: -106px;
+    padding-top: 31px;
+    padding-bottom: 38px;
+}
